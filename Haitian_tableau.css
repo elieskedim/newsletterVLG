@@ -1,0 +1,32 @@
+body{
+    width: 50%;
+    margin: 0 auto;
+   
+}
+table{
+     border: 2px dotted white;
+     width: 100%;
+     background: linear-gradient(blue, red);
+}
+thead{
+    text-align: center;
+}
+.l{
+    color: white;
+    height: 8em;
+    background: linear-gradient(blue, red);
+    border: 3px dotted white;
+}
+.m{
+    height: 8em;
+}
+.t{
+    height: 4em;
+    color: blue;
+    text-align:center ;
+}
+img{
+    width: 95%;
+    height: 15em;
+    border: 2px dotted white;
+}

@@ -1,0 +1,14 @@
+
+table{
+    border: 1px solid black;
+    text-align: center;
+    background-color:#f4f9f4; 
+    width: 40vw;
+    } 
+    /* table td{
+    background: url('../img/aetherconcept-1-sorcerers-stone.gif');
+    }  */
+p{
+    font-family: "pacifico", sans-serif;
+    font-size: 1.1em;
+}

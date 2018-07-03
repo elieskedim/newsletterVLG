@@ -1,0 +1,45 @@
+body{
+    width: 50%;
+    margin: 0 auto;
+}
+
+table{
+
+    border: 1px solid pink;
+}
+
+thead{
+
+   text-align: center;
+   height: 15em;
+   width: 20em;
+   
+   
+
+}
+
+.l{
+
+   color: black;
+   height: 4em;
+   font-family: 'Playball', cursive;
+   
+
+}
+
+.p{
+    color: black;
+    height: 4em;
+    font-family: 'Playball', cursive;
+
+}
+
+    
+
+
+.m{
+
+    height: 10em;
+    width: 20em;
+    
+}
